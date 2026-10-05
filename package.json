@@ -1,0 +1,22 @@
+{
+  "name": "remnote-counter-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remnote/plugin-sdk": "^0.0.46",
+    "@types/react": "^17.0.93",
+    "@types/react-dom": "^17.0.26",
+    "esbuild": "^0.28.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^7.0.2"
+  }
+}

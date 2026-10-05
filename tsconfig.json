@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"es2020","module":"NodeNext","moduleResolution":"NodeNext","jsx":"react","esModuleInterop":true,"skipLibCheck":true,"strict":true,"noEmit":true},"include":["src"]}
